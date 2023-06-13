@@ -1,0 +1,27 @@
+#nav-content{
+    background-color: #ff0000;
+}
+
+#ul-content{
+    list-style: none;
+    display: flex;
+    width:30% ;
+    margin: auto;
+    
+
+}
+
+
+#list-content{
+padding: 30px;
+}
+
+
+#list-content a{
+text-decoration: none;
+color: #ffffff; 
+}
+
+
+    
+
